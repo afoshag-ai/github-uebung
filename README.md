@@ -3,6 +3,8 @@
 ---
 **bold**
 ---
--first 
--second
+- first 
+- second
+1. first
+2. 
 
